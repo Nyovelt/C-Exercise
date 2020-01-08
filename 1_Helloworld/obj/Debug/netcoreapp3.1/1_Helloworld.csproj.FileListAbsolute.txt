@@ -1,0 +1,11 @@
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\bin\Debug\netcoreapp3.1\1_Helloworld.exe
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\bin\Debug\netcoreapp3.1\1_Helloworld.deps.json
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\bin\Debug\netcoreapp3.1\1_Helloworld.runtimeconfig.json
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\bin\Debug\netcoreapp3.1\1_Helloworld.runtimeconfig.dev.json
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\bin\Debug\netcoreapp3.1\1_Helloworld.dll
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\bin\Debug\netcoreapp3.1\1_Helloworld.pdb
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\obj\Debug\netcoreapp3.1\1_Helloworld.csprojAssemblyReference.cache
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\obj\Debug\netcoreapp3.1\1_Helloworld.AssemblyInfoInputs.cache
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\obj\Debug\netcoreapp3.1\1_Helloworld.AssemblyInfo.cs
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\obj\Debug\netcoreapp3.1\1_Helloworld.dll
+C:\Users\Nyove\Documents\GitHub\CSharp-Exercise\1_Helloworld\obj\Debug\netcoreapp3.1\1_Helloworld.pdb
